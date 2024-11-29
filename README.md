@@ -40,7 +40,7 @@ This project is a RESTful API for Order Management built using **NestJS**, utili
 
 - **Run the application**
     ```bash
-    npm run start:dev
+    npm start
     ```
 
 
